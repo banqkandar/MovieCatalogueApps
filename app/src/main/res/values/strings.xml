@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Movie Catalogue</string>
+    <string name="menu_movies">Movies</string>
+    <string name="menu_tvshow">Tv Show</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="judul_item_movies">Aladdin</string>
+    <string name="bahasa">en</string>
+    <string name="rating">8,5</string>
+    <string name="popular">702.000</string>
+    <string name="setting">Ubah bahasa</string>
+    <string name="tanggal_rilis">Agustus 21, 2019</string>
+    <string name="story_line">Story Line</string>
+    <string name="episodes">Episode</string>
+    <string name="userscore">3,1%</string>
+
+    <string name="detail_movies">Movies Detail</string>
+    <string name="tvshow_detail">TvShow Detail</string>
+    <string name="posterfilm">poster</string>
+    <string name="lorem">Lorem Ipsum</string>
+    <string name="favorite">Favorite</string>
+    <string name="success">Successfull add to tabs favorite</string>
+    <string name="success_hapus">Successfull remove from tabs favorite</string>
+    <string name="failed">Failed</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>

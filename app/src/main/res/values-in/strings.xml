@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Katalog Film</string>
+    <string name="menu_movies">Film-film</string>
+    <string name="menu_tvshow">Acara Tv</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="judul_item_movies">Aladdin</string>
+    <string name="bahasa">id</string>
+    <string name="rating">8,5</string>
+    <string name="popular">720.000</string>
+    <string name="setting">Ubah bahasa</string>
+    <string name="tanggal_rilis">Agustus 21, 2019</string>
+    <string name="story_line">Singkat Cerita</string>
+    <string name="userscore">3,1%</string>
+    <string name="episodes">Episod</string>
+
+    <string name="detail_movies">Detail Film</string>
+    <string name="tvshow_detail">Detail TvShow</string>
+    <string name="favorite">Favorit</string>
+    <string name="posterfilm">poster</string>
+    <string name="lorem">Lorem Ipsum</string>
+    <string name="success">Sukses menyimpan dalam tab favorit</string>
+    <string name="success_hapus">Sukses menghapus data dari tab favorit</string>
+    <string name="failed">Gagal</string>
+</resources>
